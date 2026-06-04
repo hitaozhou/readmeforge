@@ -12,7 +12,7 @@ Hey r/programming! I was tired of seeing boring GitHub profiles (including my ow
 
 **How it works:**
 ```
-npx readmeforge
+npx github:hitaozhou/readmeforge
 ```
 → Choose language (中文/English)
 → Answer 8 simple questions
@@ -28,7 +28,7 @@ npx readmeforge
 
 **Demo:** [GIF in README]
 **Repo:** https://github.com/hitaozhou/readmeforge
-**npm:** `npx readmeforge`
+**npm:** `npx github:hitaozhou/readmeforge`
 
 Built with TypeScript, fully open source (MIT). Would love feedback and stars if you find it useful! ⭐
 
@@ -44,7 +44,7 @@ Built with TypeScript, fully open source (MIT). Would love feedback and stars if
 
 **一行命令就能用：**
 ```bash
-npx readmeforge
+npx github:hitaozhou/readmeforge
 ```
 
 然后按提示回答 8 个问题（用户名、技能、选主题…），README 就自动生成了。
@@ -58,7 +58,7 @@ npx readmeforge
 
 **GitHub：** https://github.com/hitaozhou/readmeforge
 
-**npm：** `npx readmeforge`
+**npm：** `npx github:hitaozhou/readmeforge`
 
 开源 MIT，求 star ⭐ 求反馈！
 
@@ -92,7 +92,7 @@ I like coding.
 ### 快速开始
 
 ```bash
-npx readmeforge
+npx github:hitaozhou/readmeforge
 ```
 
 ### 交互流程
@@ -122,7 +122,7 @@ npx readmeforge
 - 开源 MIT
 
 **GitHub：** https://github.com/hitaozhou/readmeforge  
-**npm：** `npx readmeforge`
+**npm：** `npx github:hitaozhou/readmeforge`
 
 觉得好用就给个 Star ⭐ 吧！
 
@@ -137,7 +137,7 @@ npx readmeforge
 5 themes • CN/EN bilingual • Auto-updating stats
 
 ```bash
-npx readmeforge
+npx github:hitaozhou/readmeforge
 ```
 
 Try it → github.com/hitaozhou/readmeforge
@@ -153,7 +153,7 @@ Try it → github.com/hitaozhou/readmeforge
 5 种主题 × 中英双语 × 自动更新数据
 
 ```bash
-npx readmeforge
+npx github:hitaozhou/readmeforge
 ```
 
 开源求 Star → github.com/hitaozhou/readmeforge
