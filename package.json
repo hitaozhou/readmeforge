@@ -1,0 +1,49 @@
+{
+  "name": "readmeforge",
+  "version": "1.0.0",
+  "description": "🎨 一键生成惊艳的 GitHub Profile README — 让个人主页脱颖而出",
+  "main": "dist/index.js",
+  "bin": {
+    "readmeforge": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "github",
+    "readme",
+    "profile",
+    "generator",
+    "cli",
+    "markdown",
+    "beautiful",
+    "自动化",
+    "个人主页"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/readmeforge"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "figlet": "^1.8.0",
+    "ora": "^8.1.1",
+    "prompts": "^2.4.2"
+  },
+  "devDependencies": {
+    "@types/figlet": "^1.7.0",
+    "@types/node": "^22.10.0",
+    "@types/prompts": "^2.4.9",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
