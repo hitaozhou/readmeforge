@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6C63FF"/>
+      <stop offset="100%" stop-color="#FF6E96"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#bg)"/>
+
+  <!-- 装饰线条 -->
+  <rect x="0" y="0" width="1280" height="4" fill="url(#accent)"/>
+
+  <!-- 标题 -->
+  <text x="640" y="200" font-family="Consolas,monospace" font-size="72" font-weight="bold" fill="#6C63FF" text-anchor="middle">
+    ReadmeForge
+  </text>
+
+  <!-- 副标题 -->
+  <text x="640" y="280" font-family="Consolas,monospace" font-size="28" fill="#8b949e" text-anchor="middle">
+    🎨 Generate stunning GitHub Profile READMEs in 30 seconds
+  </text>
+
+  <!-- 功能亮点 -->
+  <text x="640" y="360" font-family="Arial,sans-serif" font-size="20" fill="#c9d1d9" text-anchor="middle">
+    5 Themes • CN/EN Bilingual • Auto-Updating Stats • GitHub Actions
+  </text>
+
+  <!-- 代码区 -->
+  <rect x="240" y="410" width="800" height="60" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="640" y="448" font-family="Consolas,monospace" font-size="20" fill="#00ff88" text-anchor="middle">
+    npx github:hitaozhou/readmeforge
+  </text>
+
+  <!-- 底部标签 -->
+  <text x="640" y="540" font-family="Arial,sans-serif" font-size="18" fill="#6C63FF" text-anchor="middle">
+    ⭐ Star on GitHub  •  hitaozhou/readmeforge  •  MIT License
+  </text>
+
+  <!-- 装饰圆 -->
+  <circle cx="120" cy="100" r="80" fill="none" stroke="#6C63FF" stroke-width="2" opacity="0.3"/>
+  <circle cx="1160" cy="540" r="120" fill="none" stroke="#FF6E96" stroke-width="2" opacity="0.2"/>
+</svg>

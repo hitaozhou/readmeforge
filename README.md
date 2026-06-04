@@ -7,11 +7,21 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/github/stars/hitaozhou/readmeforge?style=for-the-badge&color=f1c40f" alt="Stars"/>
   <img src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge" alt="Version"/>
   <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License"/>
   <img src="https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen?style=for-the-badge" alt="Node"/>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge" alt="PRs"/>
   <img src="https://img.shields.io/badge/languages-CN%2FEN-ff69b4?style=for-the-badge" alt="Languages"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hitaozhou/readmeforge/stargazers">
+    <img src="https://img.shields.io/github/stars/hitaozhou/readmeforge?style=social" alt="GitHub stars"/>
+  </a>
+  <a href="https://github.com/hitaozhou/readmeforge/network/members">
+    <img src="https://img.shields.io/github/forks/hitaozhou/readmeforge?style=social" alt="GitHub forks"/>
+  </a>
 </p>
 
 <p align="center">
