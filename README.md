@@ -90,7 +90,7 @@ I like coding.
 
 ```bash
 # 一行命令即可 / One command:
-npx readmeforge
+npx github:hitaozhou/readmeforge
 ```
 
 ---
@@ -105,10 +105,10 @@ npx readmeforge
 
 ```bash
 # Run directly (no install needed)
-npx readmeforge
+npx github:hitaozhou/readmeforge
 
 # Or install globally
-npm install -g readmeforge
+npm install -g github:hitaozhou/readmeforge
 readmeforge
 ```
 
@@ -122,7 +122,7 @@ readmeforge
 npx readmeforge
 
 # 或者全局安装
-npm install -g readmeforge
+npm install -g github:hitaozhou/readmeforge
 readmeforge
 ```
 
