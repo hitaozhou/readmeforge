@@ -58,8 +58,14 @@ Answer a few questions → Get a beautiful, professional profile page with stats
 ## 📸 Demo / 演示
 
 <p align="center">
-  <b>⬇️ Before / 使用前 ⬇️</b>
+  <img src="demo.gif" alt="ReadmeForge Demo" width="100%"/>
 </p>
+
+<table>
+<tr>
+<td width="50%">
+
+**Before / 使用前 😴**
 
 ```markdown
 # Hi, I'm John
@@ -68,9 +74,17 @@ I like coding.
 - Python
 ```
 
-<p align="center">
-  <b>⬆️ After / 使用后 ⬆️</b>
-</p>
+</td>
+<td width="50%">
+
+**After / 使用后 🔥**
+
+> ✨ 动态打字动画 + 统计卡片 + 技术徽章
+> + 贡献热力图 + 奖杯 + 自动每日更新
+
+</td>
+</tr>
+</table>
 
 > ✨ 动态打字动画 + 统计卡片 + 技术徽章 + 贡献热力图 + 奖杯 + 自动每日更新...
 
