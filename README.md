@@ -209,7 +209,7 @@ output/
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/readmeforge.git
+git clone https://github.com/hitaozhou/readmeforge.git
 cd readmeforge
 
 # 安装依赖

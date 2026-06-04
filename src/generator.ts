@@ -171,7 +171,7 @@ ${opts.showVisitorBadge ? `
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/${opts.username}">${opts.name}</a> — Generated with <a href="https://github.com/your-username/readmeforge">ReadmeForge</a></i>
+  <i>⭐️ From <a href="https://github.com/${opts.username}">${opts.name}</a> — Generated with <a href="https://github.com/hitaozhou/readmeforge">ReadmeForge</a></i>
 </p>`;
 }
 
@@ -292,7 +292,7 @@ ${opts.showVisitorBadge ? `\n![Profile Views](https://komarev.com/ghpvc/?usernam
 
 \`\`\`
 > Generated with ❤️ using ReadmeForge
-> https://github.com/your-username/readmeforge
+> https://github.com/hitaozhou/readmeforge
 \`\`\``;
 }
 

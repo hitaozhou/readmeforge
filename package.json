@@ -27,7 +27,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/readmeforge"
+    "url": "https://github.com/hitaozhou/readmeforge"
   },
   "dependencies": {
     "chalk": "^5.3.0",
